@@ -17,11 +17,11 @@ Here are some ideas to get you started:
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=hyeran kim%20&fontSize=80" />
 </div>
-
-<!--<p align="center">
-:heavy_check_mark: Java를 활용한 풀스택 웹 개발 경험이 있습니다. <br>
-:heavy_check_mark: 이슈 발생 시, 문제 원인을 꼼꼼히 파악하고 해결하기 위한 인내심이 강한 편입니다. <br><br><br>
-</p> -->
+<p align="center">
+<strong>Back-end Developer</strong><br>
+:heavy_check_mark: Java를 활용한 풀스택 웹 개발 경험<br>
+:heavy_check_mark: 꼼꼼하게 빈 틈을 채워나가는 개발자<br><br><br>
+</p> 
 
 <p align="center">:muscle:  <strong>Skills</strong> :muscle:</p>
 <p align="center">Techs that I've used at least once</p>
