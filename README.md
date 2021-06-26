@@ -20,10 +20,11 @@ Here are some ideas to get you started:
 <p align="center">
 <strong>Back-end Developer</strong><br>
 :heavy_check_mark: Java를 활용한 풀스택 웹 개발 경험<br>
-:heavy_check_mark: 꼼꼼하게 빈 틈을 채워나가는 개발자<br><br><br>
+:heavy_check_mark: 꼼꼼하게 빈 틈을 채워나가는 개발자<br>
+:heavy_check_mark: 실력 있는 개발자를 꿈꾸는 김혜란입니다:smile:<br><br><br>
 </p> 
 
-<p align="center">:muscle:  <strong>Skills</strong> :muscle:</p>
+<p align="center">:muscle:  <strong>Tech Stacks</strong> :muscle:</p>
 <p align="center">Techs that I've used at least once</p>
 <div align="center">
 <img src="https://img.shields.io/badge/Java-4D00ED?style=flat-square&logo=Java&logoColor=white"/></a>
