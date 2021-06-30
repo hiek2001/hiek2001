@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 </div>
 <p align="center">
 <strong>Back-end Developer</strong><br>
-:heavy_check_mark: Java를 활용한 풀스택 웹 개발 경험<br>
+:heavy_check_mark: Java를 이용한 풀스택 웹 개발 경험<br>
 :heavy_check_mark: 꼼꼼하게 빈 틈을 채워나가는 개발자<br>
 :heavy_check_mark: 실력 있는 개발자를 꿈꾸는 김혜란입니다:smile:<br><br><br>
 </p> 
