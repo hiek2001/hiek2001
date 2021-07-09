@@ -30,8 +30,9 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/Java-4D00ED?style=flat-square&logo=Java&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/SpringFramework-success?style=flat-square&logo=Spring&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/SpringBoot-green?style=flat-square&logo=Spring&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/SpringSecurity-5CD1E5?style=flat-square&logo=Spring&logoColor=white"/></a><br>
 <img src="https://img.shields.io/badge/Oracle-ED006D?style=flat-square&logo=Oracle&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Db2-ED00CB?style=flat-square&logo=Db2&logoColor=white"/></a><br>
+<img src="https://img.shields.io/badge/Db2-ED00CB?style=flat-square&logo=Db2&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/JavaScript-24A6BD?style=flat-square&logo=JavaScript&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/JQuery-3766AB?style=flat-square&logo=JQuery&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/HTML5-9cf?style=flat-square&logo=JavaScript&logoColor=white"/></a>
