@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=hyeran kim%20&fontSize=80" />
+<!-- <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=hyeran kim%20&fontSize=80" /> -->
 </div>
 <p align="center">
 <strong>Back-end Developer</strong><br>
