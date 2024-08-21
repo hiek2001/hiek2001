@@ -47,8 +47,6 @@ Here are some ideas to get you started:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hiek2001&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-[김혜란 경력기술서](https://comet-capri-448.notion.site/3-Java-45c0e7816561432caa4fef8d6624063e?pvs=4)
-
 
 
 </div>
