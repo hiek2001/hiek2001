@@ -24,6 +24,9 @@ Here are some ideas to get you started:
 :heavy_check_mark: 실력 있는 개발자를 꿈꾸는 김혜란입니다:smile:<br><br><br>
 </p> 
 
+
+
+
 <p align="center">:muscle:  <strong>Tech Stacks</strong> :muscle:</p>
 <p align="center">Techs that I've used at least once</p>
 <div align="center">
@@ -43,6 +46,8 @@ Here are some ideas to get you started:
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hiek2001&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+[김혜란 경력기술서](https://www.notion.so/3-Java-45c0e7816561432caa4fef8d6624063e?pvs=4)
 
 </div>
 
